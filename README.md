@@ -13,3 +13,5 @@ Here you can use this Extension For Add Custom Shipping Method Please Look READM
 9. At the checkout cart page, you can see our custom shipping method in the list.
 10. When you click on our custom shipping method, it will automatically add the attribute values to the order subtotal amount.
 11. Additionally, we also display the individual product attribute value before the subtotal.
+
+Please make sure to follow these instructions carefully to ensure the smooth usage of the Extension.
